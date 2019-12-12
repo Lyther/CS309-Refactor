@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ec86991-5b3d-476f-8a1a-c00b4748433a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Us3JHAax7qRgwNrpGNSAj8Ahpb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="cn.edu.sustech.Movie" />
+      <recent name="Movie" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="cn.edu.sustech" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.edu.sustech" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestMovieRental">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="CS309-Refactor" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMovieRental" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CS309-Refactor" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestMovieRental" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestMovieRental" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ec86991-5b3d-476f-8a1a-c00b4748433a" name="Default Changelist" comment="" />
+      <created>1576131401984</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576131401984</updated>
+      <workItem from="1576131405253" duration="8798000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="128" key="#HTTP_Proxy" timestamp="1576131787659">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="361" y="128" key="#HTTP_Proxy/0.40.1536.824@0.40.1536.824" timestamp="1576131787659" />
+    <state x="958" y="165" key="#com.intellij.ide.util.MemberChooser" timestamp="1576139209897">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="958" y="165" key="#com.intellij.ide.util.MemberChooser/0.40.1536.824@0.40.1536.824" timestamp="1576139209897" />
+    <state x="844" y="240" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1576133273457">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="844" y="240" key="#com.intellij.ide.util.PackageChooserDialog/0.40.1536.824@0.40.1536.824" timestamp="1576133273457" />
+    <state x="882" y="238" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1576136979250">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="882" y="238" key="#com.intellij.ide.util.TreeClassChooserDialog/0.40.1536.824@0.40.1536.824" timestamp="1576136979250" />
+    <state x="856" y="201" key="#com.intellij.refactoring.memberPullUp.PullUpDialog" timestamp="1576139473497">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="856" y="201" key="#com.intellij.refactoring.memberPullUp.PullUpDialog/0.40.1536.824@0.40.1536.824" timestamp="1576139473497" />
+    <state x="856" y="217" key="#com.intellij.refactoring.memberPushDown.PushDownDialog" timestamp="1576138928769">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="856" y="217" key="#com.intellij.refactoring.memberPushDown.PushDownDialog/0.40.1536.824@0.40.1536.824" timestamp="1576138928769" />
+    <state x="933" y="340" width="439" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1576132645778">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="933" y="340" width="439" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.40.1536.824@0.40.1536.824" timestamp="1576132645778" />
+    <state x="967" y="318" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog" timestamp="1576137842317">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="967" y="318" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog/0.40.1536.824@0.40.1536.824" timestamp="1576137842317" />
+    <state x="867" y="157" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1576136985650">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="867" y="157" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.40.1536.824@0.40.1536.824" timestamp="1576136985650" />
+    <state x="549" y="193" key="FileChooserDialogImpl" timestamp="1576131766989">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="549" y="193" key="FileChooserDialogImpl/0.40.1536.824@0.40.1536.824" timestamp="1576131766989" />
+    <state width="723" height="210" key="GridCell.Tab.0.bottom" timestamp="1576140210274">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="723" height="210" key="GridCell.Tab.0.bottom/0.40.1536.824@0.40.1536.824" timestamp="1576140210274" />
+    <state width="723" height="210" key="GridCell.Tab.0.center" timestamp="1576140210274">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="723" height="210" key="GridCell.Tab.0.center/0.40.1536.824@0.40.1536.824" timestamp="1576140210274" />
+    <state width="723" height="210" key="GridCell.Tab.0.left" timestamp="1576140210274">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="723" height="210" key="GridCell.Tab.0.left/0.40.1536.824@0.40.1536.824" timestamp="1576140210274" />
+    <state width="723" height="210" key="GridCell.Tab.0.right" timestamp="1576140210274">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="723" height="210" key="GridCell.Tab.0.right/0.40.1536.824@0.40.1536.824" timestamp="1576140210274" />
+    <state x="886" y="178" width="571" height="571" key="RefactorJ.ExtractClass" timestamp="1576136881141">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="886" y="178" width="571" height="571" key="RefactorJ.ExtractClass/0.40.1536.824@0.40.1536.824" timestamp="1576136881141" />
+    <state x="895" y="68" width="438" height="751" key="RefactorJ.IntroduceParameterObject" timestamp="1576137448559">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="895" y="68" width="438" height="751" key="RefactorJ.IntroduceParameterObject/0.40.1536.824@0.40.1536.824" timestamp="1576137448559" />
+    <state x="249" y="40" key="SettingsEditor" timestamp="1576132872763">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="249" y="40" key="SettingsEditor/0.40.1536.824@0.40.1536.824" timestamp="1576132872763" />
+    <state x="629" y="151" width="581" height="630" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1576136740670">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="629" y="151" width="581" height="630" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.40.1536.824@0.40.1536.824" timestamp="1576136740670" />
+    <state x="485" y="346" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1576131936136">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="485" y="346" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.40.1536.824@0.40.1536.824" timestamp="1576131936136" />
+    <state x="883" y="209" key="extract.method.dialog" timestamp="1576137787786">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="883" y="209" key="extract.method.dialog/0.40.1536.824@0.40.1536.824" timestamp="1576137787786" />
+    <state x="895" y="42" key="refactoring.ChangeSignatureDialog" timestamp="1576137045901">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="895" y="42" key="refactoring.ChangeSignatureDialog/0.40.1536.824@0.40.1536.824" timestamp="1576137045901" />
+    <state x="814" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1576132844944">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="814" y="185" width="672" height="678" key="search.everywhere.popup/0.40.1536.824@0.40.1536.824" timestamp="1576132844944" />
+  </component>
+</project>
